@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/iaomw/Tracer/master/Captures/capture_m.jpg)
+<img width="1426" alt="sky" src="https://github.com/user-attachments/assets/237fc861-0e71-40b4-b258-1f04e52d1cc4" />
 
 <!--
 **iaomw/iaomw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
